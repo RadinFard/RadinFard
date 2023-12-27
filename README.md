@@ -1,5 +1,5 @@
 ### Welcome to my personal README.md!
-- 👍👌 Wassup, pals? I'm Radin Fard Khojaste
+- 👍👌 Hello, guys, how you're doing? I'm Radin Fard Khojaste
 - 🧑‍💻💻 I'm a semi-pro programmer about: Python and AI development
 - I'd like to share my experience with everyone
 - How to contact me on email: radin.fkhojaste@gmail.com
